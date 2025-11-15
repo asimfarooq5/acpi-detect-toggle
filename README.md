@@ -9,7 +9,7 @@ The BIOS already handles charging, so disabling OS-level detection stops flicker
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/xconnio/acpi-detect-toggle.git
+git clone git@github.com:asimfarooq5/acpi-detect-toggle.git
 cd acpi-detect-toggle
 chmod +x install.sh
 ./install.sh
